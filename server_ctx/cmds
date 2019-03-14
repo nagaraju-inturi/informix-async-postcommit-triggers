@@ -1,0 +1,7 @@
+javac -classpath "informix/lib/ifxjdbc.jar" LeaderBoard.java
+java -classpath "informix/lib/ifxjdbc.jar:."  LeaderBoard
+mosquitto_sub -t 'test/topic' -v
+mosquitto_pub -t 'test/topic' -m 'hello world'
+javac -classpath "org.eclipse.paho.client.mqttv3-1.2.0.jar" MqttPublishSample.java
+java -classpath "org.eclipse.paho.client.mqttv3-1.2.0.jar:." MqttPublishSample
+dbaccess testdb register.sql
