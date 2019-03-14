@@ -9,8 +9,6 @@ to create docker image for informix and start informix container.
 URL to download Informix Client SDK developer edition: https://www-01.ibm.com/marketing/iwm/tnd/preconfig.jsp?id=2013-03-26+02%3A58%3A21.558674R&S_TACT=&S_CMP=
 IBM Passport Advantage website to download 14.10 Informix version: https://www.ibm.com/software/passportadvantage/pao_customer.html
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/STAo7wsEKgE/0.jpg)](https://www.youtube.com/watch?v=STAo7wsEKgE)
-
-
-(https://youtu.be/STAo7wsEKgE)
+Demo video:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/STAo7wsEKgE/1.jpg)](https://www.youtube.com/watch?v=STAo7wsEKgE)
 
