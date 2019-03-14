@@ -1,6 +1,7 @@
 Informix - Asynchronous post commit triggers, Streaming analytics and Replication to SPL
 
 Take a look at the pdf file for presentation slides.
+
 Demo scripts are in server_ctx/
 This demo is based on Docker. You need to download and copy
 ibm.ids.14.10.FC1.LNX.tar and clientsdk.4.50.tar file into server_ctx/ and run docker_refresh.sh script
