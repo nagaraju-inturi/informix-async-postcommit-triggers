@@ -12,5 +12,7 @@ URL to download Informix Client SDK developer edition: https://www-01.ibm.com/ma
 
 IBM Passport Advantage website to download 14.10 Informix version: https://www.ibm.com/software/passportadvantage/pao_customer.html
 
-Demo video: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/STAo7wsEKgE/0.jpg)](https://www.youtube.com/watch?v=STAo7wsEKgE)
+
+Demo video: 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/STAo7wsEKgE/0.jpg)](https://www.youtube.com/watch?v=STAo7wsEKgE)
 
